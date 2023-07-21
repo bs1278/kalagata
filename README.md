@@ -14,6 +14,7 @@ Step3: from the root project directory run the following commong
 once your local server in run and up you can test it via two ways either running unit test cases or hitting api end points
 
 API End points
+
 ```http://localhost:8000/api/v0.1/kalagata_tm/toll/check_or_issue_toll_pass```
 ```http://localhost:8000/api/v0.1/kalagata_tm/toll/create_vehicle_toll_pass```
 ```http://localhost:8000/api/v0.1/kalagata_tm/kalagata_tm/toll/transactions/create/```
