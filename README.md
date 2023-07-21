@@ -6,7 +6,8 @@ Instructions for running and checking an application
 step1: clone the repository into  your local machine
 step2: make sure you have already djano installation in your machine if not run the following script from your terminal 
 
-```pip install django django```
+```pip install django```
+```pip install djangorestframework```
 
 Step3: from the root project directory run the following commong 
 
